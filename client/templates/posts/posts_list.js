@@ -1,15 +1,15 @@
 var postsData = [
     {
-        title: 'Introducing Telescope',
-        url: 'http://sachagreif.com/introducing-telescope/'
+        title: 'Bjorn blom',
+        url: 'http://bjornblom.com'
     },
     {
-        title: 'Meteor',
-        url: 'http://meteor.com'
+        title: 'NoProtocol',
+        url: 'http://noprotocol.nl'
     },
     {
-        title: 'The Meteor Book',
-        url: 'http://themeteorbook.com'
+        title: 'Bike OK',
+        url: 'http://www.bikeok.nl'
     }
 ];
 Template.postsList.helpers({
